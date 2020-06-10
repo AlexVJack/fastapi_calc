@@ -6,10 +6,10 @@ Testing assignment for PulsuPro
 
 To use FastAPI calculator you need to provide several commands
 
-/add/3.3/2.1 will result addition
-/sub/5/2 will result subtraction
-/div/4/2 will result division
-/mult/2/2 will result multiplication
+* /add/3.3/2.1 will result addition
+* /sub/5/2 will result subtraction
+* /div/4/2 will result division
+* /mult/2/2 will result multiplication
 
 ### Prerequisites
 
