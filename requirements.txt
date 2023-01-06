@@ -50,7 +50,7 @@ uvicorn=0.11.5=pypi_0
 uvloop=0.14.0=pypi_0
 wcwidth=0.2.4=pypi_0
 websockets=8.1=pypi_0
-wheel=0.34.2=py38_0
+wheel=0.38.1=py38_0
 wrapt=1.12.1=pypi_0
 xz=5.2.5=h7b6447c_0
 zipp=3.1.0=py_0
